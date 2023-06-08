@@ -1,3 +1,5 @@
+Link: https://jjasoncclark-streamlit-app-app-w7n4jf.streamlit.app/
+
 This streamlit application performs a simple exploratory data analysis. With this tool, you can perform univariate analysis on both numerical and categorical variables and bivariate analysis on numerical variables. Moreover, you are able to download the plots generated.
 
 ## How to Use the Application
